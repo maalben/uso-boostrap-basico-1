@@ -1,0 +1,16 @@
+
+
+
+/*
+Color para la página principal
+*/
+body#principal{
+    background-color: rgb(220, 240, 168);
+}
+
+/*
+Color para el detalle de la amenaza fantasma
+*/
+body#amenaza{
+    background-color: rgb(189, 243, 234);
+}
